@@ -5,6 +5,7 @@ import { day3 } from './day3/day3';
 import { day3Part2 } from './day3/day3Part2';
 import { day4 } from './day4/day4';
 import { day4Part2 } from './day4/day4Part2';
+import {day5} from './day5/day5'
 
 //day1();
 //day2();
@@ -12,4 +13,5 @@ import { day4Part2 } from './day4/day4Part2';
 //day3();
 //day3Part2();
 //day4();
-day4Part2();
+//day4Part2();
+day5();
